@@ -117,4 +117,4 @@ This project aims to be **an AI-powered SaaS platform** for space research, enab
 
 ----------
 
-This **AI-powered planetary analysis platform** is a significant step toward **enhancing space exploration and exoplanet habitability predictions**! 🚀🌍✨
+This **AI-powered planetary analysis platform** is a significant step toward **enhancing space exploration and exoplanet habitability predictions**! 🚀🌍✨.
